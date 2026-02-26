@@ -1,6 +1,6 @@
-# RememberTheDate: Detailed Features & Functionalities
+# Date-a-base: Detailed Features & Functionalities
 
-Welcome to the deep dive into "RememberTheDate"! This document outlines every corner of the application, revealing the powerful features designed to keep your most important dates always in sight.
+Welcome to the deep dive into "Date-a-base"! This document outlines every corner of the application, revealing the powerful features designed to keep your most important dates always in sight.
 
 ## Core Event Management
 
@@ -52,4 +52,4 @@ Welcome to the deep dive into "RememberTheDate"! This document outlines every co
 *   **WorkManager Integration**: Leverages Android's WorkManager for efficient and system-friendly scheduling of background tasks like notifications and widget updates, optimizing battery life.
 *   **Modern Android Development**: Built with Kotlin and modern Android architecture components for a stable and performant experience.
 
-This detailed overview should give you a comprehensive understanding of everything "RememberTheDate" has to offer. Enjoy never missing an important date again!
+This detailed overview should give you a comprehensive understanding of everything "Date-a-base" has to offer. Enjoy never missing an important date again!

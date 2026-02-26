@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App -->
-    <string name="app_name">RememberTheDate</string>
+    <string name="app_name">Date-a-base</string>
 
     <!-- Main Screen -->
     <string name="view_style_all_months">Tutti i Mesi</string>
@@ -18,7 +18,7 @@
     <string name="export_failed">Esportazione fallita</string>
     <string name="import_successful">Importazione riuscita</string>
     <string name="import_failed">Importazione fallita</string>
-    <string name="default_export_filename">RememberTheDate_Export.csv</string>
+    <string name="default_export_filename">Date-a-base_Export.csv</string>
 
     <!-- Add/Edit Screen -->
     <string name="add_edit_hint_event_name">Nome Evento</string>
